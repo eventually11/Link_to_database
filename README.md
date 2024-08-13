@@ -28,11 +28,11 @@ Key Methods:
 
 python
 
-# Sample DataFrame
+### Sample DataFrame
         data = {'name': ['Alice', 'Bob'], 'age': [25, 30], 'city': ['New York', 'Los Angeles']}
         df = pd.DataFrame(data)
 
-# Initialize the DataFrameToMySQL class with connection details
+### Initialize the DataFrameToMySQL class with connection details
         df_to_mysql = DataFrameToMySQL(
             host='localhost',
             user='root',
@@ -41,7 +41,7 @@ python
             table_name='test_database'    
         )
 
-# Write the DataFrame to MySQL
+### Write the DataFrame to MySQL
         df_to_mysql.write_df_to_mysql(df)
 
 Notes
