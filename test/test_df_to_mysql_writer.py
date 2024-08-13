@@ -17,7 +17,7 @@ sys.path.insert(0, parent_directory)
 import unittest
 import pandas as pd
 import mysql.connector
-from df_to_mysql import DataFrameToMySQL  # Replace 'your_module' with the actual module name
+from df_to_mysql_writer import DataFrameToMySQL  # Replace 'your_module' with the actual module name
 
 class TestDataFrameToMySQL(unittest.TestCase):
 
