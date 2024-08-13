@@ -1,0 +1,6 @@
+CREATE TABLE sm.test_database (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    age INT NOT NULL,
+    city VARCHAR(255) NOT NULL
+);
