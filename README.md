@@ -8,6 +8,11 @@ This project provides a class for connecting to a MySQL database and writing dat
 
 The primary output of this project is SQL INSERT statements that are generated and executed to populate a MySQL or SQLite database table with data from a Pandas DataFrame.
 
+Additionally, the project provides options to output the DataFrame data in different formats:
+
+    JSON: The DataFrame can be converted to a JSON format for easy integration with other systems.
+    CSV: The DataFrame can be exported to a CSV file, allowing for easy sharing and analysis in spreadsheet tools.
+
 ## Class
 DataFrameToMySQL
 
@@ -20,9 +25,16 @@ Key Methods:
 
 ## Usage
 
-    Define a DataFrame: Prepare your data in a Pandas DataFrame.
-    Initialize the Class: Set up the DataFrameToMySQL class with your database connection details.
-    Write Data to MySQL: Use the write_df_to_mysql method to generate and execute SQL INSERT statements, inserting the DataFrame data into the database table.
+- Define a DataFrame: Prepare your data in a Pandas DataFrame.
+
+- Initialize the Class: Set up the DataFrameToMySQL class with your database connection details.
+
+- Write Data to MySQL: Use the write_df_to_mysql method to generate and execute SQL INSERT statements, inserting the DataFrame data into the database table.
+
+- Export Data (Optional):
+
+JSON: Use the export_to_json(df, filepath) method to save the DataFrame as a JSON file.
+CSV: Use the export_to_csv(df, filepath) method to save the DataFrame as a CSV file.
 
 ## Example
 
