@@ -69,13 +69,13 @@ if __name__ == "__main__":
         'host': 'localhost',
         'user': 'root',
         'password': 'root',
-        'database': 'sm'  # Replace 'sm' with your database name
+        'database': 'sm'  
     }
     table='route_info'
     exporter = MySQLExporter(db_config)
     query = 'SELECT * FROM {0}'.format(table)  
     csv_filename = '{0}_output.csv'.format(table)
-    json_filename = '{0}output.json'.format(table)
+    json_filename = '{0}_output.json'.format(table)
     
     try:
         exporter.query_to_csv(query, csv_filename)

@@ -1,0 +1,277 @@
+id,name,latitude,longitude,distance_km,duration_min,type,address
+109,"Sole Restaurant, Lee Point Road, Lee Point, City of Darwin, Northern Territory, 0811, Australia",-12.3409816,130.8931366,18.45,21.21,restaurant,Lee Point Road
+110,"Fannie Bay Super Pizza Italian Restaurant, Ross Smith Avenue, Fannie Bay, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4240555,130.8365323,5.75,8.39,restaurant,Ross Smith Avenue
+111,"Asian Gateway Restaurant, 58, Aralia Street, Nightcliff, Darwin, City of Darwin, Northern Territory, 0810, Australia",-12.3795265,130.8489492,11.83,15.5,restaurant,Aralia Street
+112,"Char Restaurant, Esplanade, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4649173,130.8400948,0.98,2.01,restaurant,Esplanade
+113,"Crab Claw Island Restaurant, Crab Claw Island Boat Ramp, Bynoe, Crab Claw Island, Northern Territory, Australia",-12.7060747,130.6223951,112.75,134.65,restaurant,Crab Claw Island Boat Ramp
+114,"Yogis Way, Coronation Drive, Stuart Park, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.445271,130.8425692,3.02,4.88,restaurant,Coronation Drive
+115,"Yots Greek Taverna, Marina Boulevard, Larrakeyah, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4509394,130.8223537,3.35,6.52,restaurant,Marina Boulevard
+116,"Il Lido, Anchorage Court, Darwin City, Darwin Waterfront Precinct Municipality, Northern Territory, 0801, Australia",-12.4687852,130.8471832,1.09,3.05,restaurant,Anchorage Court
+117,"Wharf Precinct Food Court, Stokes Hill Wharf, Darwin City, Darwin Waterfront Precinct Municipality, Northern Territory, 0801, Australia",-12.4707358,130.848332,1.82,5.24,restaurant,Stokes Hill Wharf
+118,"Hot Tamale, Anchorage Court, Darwin City, Darwin Waterfront Precinct Municipality, Northern Territory, 0801, Australia",-12.46862,130.8467776,1.04,2.93,restaurant,Anchorage Court
+119,"CHOW!, Kitchener Drive, Darwin City, Darwin Waterfront Precinct Municipality, Northern Territory, 0801, Australia",-12.4673061,130.8457022,1.0,2.48,restaurant,Kitchener Drive
+120,"Flavour E Azam, Smith Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4629791,130.8413479,0.85,1.89,restaurant,Smith Street
+121,"Howard Springs Tavern, Whitewood Road, Howard Springs, Litchfield Municipality, Northern Territory, 0839, Australia",-12.4967032,131.043459,29.42,31.45,restaurant,Whitewood Road
+122,"KFC Palmerston, Temple Terrace, Palmerston City, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4807328,130.9874155,22.45,21.9,restaurant,Temple Terrace
+123,"Nando's, Trower Road, Casuarina, Darwin, City of Darwin, Northern Territory, 0810, Australia",-12.3756524,130.8819609,13.46,15.82,restaurant,Trower Road
+124,"Casuarina Club, 247, Trower Road, Casuarina, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3726455,130.8828668,13.87,16.64,restaurant,Trower Road
+125,"Indian Curry Paradise, 56, Bradshaw Terrace, Casuarina, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3716305,130.8824083,14.02,17.13,restaurant,Bradshaw Terrace
+126,"Di Lusso, Lee Point Road, Lee Point, City of Darwin, Northern Territory, 0811, Australia",-12.3407987,130.8931697,18.44,21.17,restaurant,Lee Point Road
+127,"Medee Eatery, Hinkler Crescent, Fannie Bay, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4234262,130.8366545,5.82,8.64,restaurant,Hinkler Crescent
+128,"The Track, Dick Ward Drive, Bagot, Fannie Bay, Darwin, City of Darwin, Northern Territory, 0810, Australia",-12.423007,130.8434738,6.19,9.57,restaurant,Dick Ward Drive
+129,"Happy Garden, Vimy Lane, Parap, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4317256,130.8440271,4.48,6.54,restaurant,Vimy Lane
+130,"Oka, Vimy Lane, Parap, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4317597,130.8437052,4.63,6.9,restaurant,Vimy Lane
+131,"Pee Wee's at the Point, East Point Road, East Point, Darwin, City of Darwin, Northern Territory, 0820, Australia",-12.4125223,130.8235408,7.51,11.61,restaurant,East Point Road
+132,"Jilvie's Bistro, Kalymnos Drive, Karama, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4013842,130.9156072,14.55,16.73,restaurant,Kalymnos Drive
+133,"Yanyula Drive, Anula, Darwin, City of Darwin, Northern Territory, 0811, Australia",-12.3919899,130.8907792,13.13,15.76,restaurant,Yanyula Drive
+134,"Eat at Martin's, 6, Caryota Court, Coconut Grove, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3998953,130.8517538,9.29,12.25,restaurant,Caryota Court
+135,"Lucky Bat cafe and pizzeria, 8, Pavonia Place, Nightcliff, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.386966,130.8506046,10.9,13.35,restaurant,Pavonia Place
+136,"Spice Garden Eating House & Grill, Pavonia Place, Nightcliff, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3869292,130.8513276,10.82,13.16,restaurant,Pavonia Place
+137,"Canteen, Tilston Avenue, Driver, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4954257,130.9727635,23.09,22.78,restaurant,Tilston Avenue
+138,"Palmerston Tavern, Chung Wah Terrace, Palmerston City, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4807153,130.983729,22.48,21.71,restaurant,Chung Wah Terrace
+139,"Madame Za by Rydges Palmerston, Maluka Drive, Palmerston City, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.480953,130.9885588,22.62,22.23,restaurant,Maluka Drive
+140,"Primal Bar & Grill, 18, The Boulevard, Palmerston City, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4789554,130.9853843,22.13,21.31,restaurant,The Boulevard
+141,"Happy Garden, Yarrawonga Road, Yarrawonga, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4717978,130.9832325,21.44,21.02,restaurant,Yarrawonga Road
+142,"Nando's, Roystonea Road, Yarrawonga, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4716878,130.9826233,21.21,21.16,restaurant,Roystonea Road
+143,"Ducks Nuts Bar & Grill, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4610768,130.837834,1.25,2.52,restaurant,Mitchell Street
+144,"Mayberry, 3, Edmunds Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4618748,130.8412001,0.71,1.54,restaurant,Edmunds Street
+145,"City Pizza, Cavenagh Street, One Mile Dam, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4620547,130.8423947,0.52,1.17,restaurant,Cavenagh Street
+146,"PM Eat and Drink, 56 Smith Street, Knuckey Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4621143,130.8423333,0.53,1.19,restaurant,Knuckey Street
+147,"Little Miss Korea, Austin Lane, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4622633,130.8416285,0.64,1.43,restaurant,Austin Lane
+148,"Good Thanks, 33, Knuckey Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4622749,130.8422086,0.56,1.22,restaurant,Knuckey Street
+149,"Mellow Thai, 69, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4627718,130.8392303,1.01,2.08,restaurant,Mitchell Street
+150,"Go Sushi, 28, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4647618,130.8419141,0.71,1.79,restaurant,Mitchell Street
+151,"Outback Jacks, 28, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4646556,130.8418069,0.69,1.72,restaurant,Mitchell Street
+152,"Curry14, 27, Smith Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4643117,130.8425648,0.56,1.72,restaurant,Smith Street
+153,"Istanbul, 69, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.462982,130.8394516,0.98,2.01,restaurant,Mitchell Street
+154,"Alfonsino‘s, 69, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4630157,130.8392889,0.99,2.03,restaurant,Mitchell Street
+155,"Sapphire Bar and Grill Darwin CBD, 48-50, Smith Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4631496,130.8420973,0.63,1.34,restaurant,Smith Street
+156,"Mr Sushi, 48-50, Smith Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4629631,130.8422611,0.63,1.53,restaurant,Smith Street
+157,"Tim's Surf and Turf, Litchfield Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4623503,130.8441907,0.74,1.9,restaurant,Litchfield Street
+158,"Noodle House, 84, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4600612,130.8369453,1.4,2.65,restaurant,Mitchell Street
+159,"Nightcliff Primary School, Pandanus Street, Nightcliff, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3807665,130.8503049,11.31,14.96,school,Pandanus Street
+160,"Nightcliff Middle School, Aralia Street, Rapid Creek, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.377622,130.8530767,13.11,16.04,school,Aralia Street
+161,"Haileybury Rendall School, 6057, Berrimah Road, Berrimah, Darwin, City of Darwin, Northern Territory, 0828, Australia",-12.4440901,130.9222174,14.26,16.14,school,Berrimah Road
+162,"Larrakeyah Primary School, Larrakeyah PS Carpark, Larrakeyah, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4572771,130.829473,2.35,4.8,school,Larrakeyah PS Carpark
+163,"Murrupurtiyanuwu Catholic Primary School, Kerinauia Drive, Wurrumiyanga, Tiwi Islands Region, Northern Territory, Australia",-11.7567353,130.6392957,0.0,0.0,school,Kerinauia Drive
+164,"St Andrew's School, Leanyer Drive, Leanyer, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3735466,130.8994601,15.66,18.55,school,Leanyer Drive
+165,"Nakara Primary School, Kilfoyle Crescent, Nakara, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.370079,130.8778228,13.77,17.14,school,Kilfoyle Crescent
+166,"Henbury School, Henbury Avenue, Tiwi, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3673741,130.8840475,14.58,17.38,school,Henbury Avenue
+167,"Dripstone Middle School, Willeroo Street, Tiwi, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3658768,130.8831245,15.24,18.92,school,Willeroo Street
+168,"Milkwood Steiner School, 107, Boulter Road, Berrimah, Darwin, City of Darwin, Northern Territory, 0828, Australia",-12.4145278,130.9222983,15.17,17.22,school,Boulter Road
+169,"Malak Primary School, Pitman Court, Malak, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3919567,130.9027246,14.93,17.31,school,Pitman Court
+170,"Anula Primary School, Ford Street, Anula, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3913335,130.8934519,13.9,17.0,school,Ford Street
+171,"The Essington School, 22, Chapman Road, Rapid Creek, Darwin, City of Darwin, Northern Territory, 0810, Australia",-12.382596,130.8571738,10.84,13.81,school,Chapman Road
+172,"St Paul’s Catholic Primary School, Trower Road, Millner, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3870325,130.8580643,10.54,12.93,school,Trower Road
+173,"Jingili Primary School, Rindberg Street, Jingili, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3871158,130.8742359,12.85,15.53,school,Rindberg Street
+174,"Wulagi Primary School, Kingfisher Crescent, Wulagi, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3834654,130.8952214,14.36,17.36,school,Kingfisher Crescent
+175,"Moil Primary School, Moil Crescent, Moil, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3878617,130.880563,13.08,15.98,school,Moil Crescent
+176,"Sanderson Middle School, Lowrie Court, Malak, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3889241,130.8986416,14.65,17.34,school,Lowrie Court
+177,"Wagaman Primary School, Wagaman Terrace, Wagaman, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3802512,130.8843177,13.46,16.42,school,Wagaman Terrace
+178,"Nemarluk School, Stedcombe Street, Alawa, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3800288,130.8750822,12.53,14.83,school,Stedcombe Street
+179,"Alawa School Farm, Stedcombe Street, Alawa, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3793755,130.8765161,12.78,15.37,school,Stedcombe Street
+180,"Howard Spring Primary School, Whitewood Road, Howard Springs, Litchfield Municipality, Northern Territory, 0839, Australia",-12.4950556,131.0451684,29.77,32.48,school,Whitewood Road
+181,"Palmerston Christian School, Surcingle Drive, Marlow Lagoon, City of Palmerston, Northern Territory, 0830, Australia",-12.4907982,130.9645421,22.74,22.76,school,Surcingle Drive
+182,"Gray Primary School, Victoria Drive, Gray, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4896015,130.9803363,24.11,24.65,school,Victoria Drive
+183,"St Mary's Primary School, 3, Lindsey Street, One Mile Dam, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4594214,130.8389198,1.0,2.11,school,Lindsey Street
+184,"St Mary's Primary School, Lindsey Street, One Mile Dam, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4594802,130.8393497,1.01,2.09,school,Lindsey Street
+185,"Stuart Park Primary School, 8, Nudl Street, Stuart Park, Darwin, City of Darwin, Northern Territory, 0820, Australia",-12.4407323,130.8448625,3.87,7.41,school,Nudl Street
+186,"Darwin Middle School, Atkins Drive, The Gardens, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4381982,130.8354526,4.43,7.17,school,Atkins Drive
+187,"Middle Point School, Anzac Parade, Middle Point, Litchfield Municipality, Northern Territory, Australia",-12.5758742,131.3149856,67.0,62.35,school,Anzac Parade
+188,"St Francis Assisi School, Strangways Road, Humpty Doo, Litchfield Municipality, Northern Territory, 0836, Australia",-12.5815953,131.0991345,40.23,38.14,school,Strangways Road
+189,"Belyuen School, Cox Peninsula Road, Belyuen, Belyuen Shire, Northern Territory, Australia",-12.538992,130.7015389,108.93,86.76,school,Cox Peninsula Road
+190,"Forrest Parade School, 120, Flynn Circuit, Bellamack, Palmerston, City of Palmerston, Northern Territory, 0832, Australia",-12.5140096,130.9804233,25.99,25.38,school,Flynn Circuit
+191,"Rosebery Primary School, Roystonea Avenue, Rosebery, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.5112846,130.993882,26.75,26.25,school,Roystonea Avenue
+192,"Woodroffe Primary School, 55, Woodroffe Avenue, Woodroffe, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.5060488,130.9825878,25.25,26.13,school,Woodroffe Avenue
+193,"Moulden Park Primary School, Bonson Terrace, Moulden, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.5064204,130.9710702,24.04,23.34,school,Bonson Terrace
+194,"Zucculi Primary School, Cheesefruit Street, Zuccoli, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.5119502,131.0057773,28.38,27.76,school,Cheesefruit Street
+195,"Charles Darwin Uni, Technology Place, Brinkin, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3716195,130.8675993,13.84,18.52,school,Technology Place
+196,"Holy Spirit Catholic Primary, Angelo Street, Casuarina, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3726633,130.8848894,14.29,17.73,school,Angelo Street
+197,"Holy Family Catholic Primary, Calytrix Road, Karama, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3938049,130.9120928,15.9,18.2,school,Calytrix Road
+198,"Xavier Catholic College, Nguiu Street, Wurrumiyanga, Tiwi Islands Region, Northern Territory, Australia",-11.7575522,130.6379412,0.0,0.0,school,Nguiu Street
+199,"Taminmin College, Challoner Circuit, Humpty Doo, Litchfield Municipality, Northern Territory, 0836, Australia",-12.5808675,131.1018642,40.23,37.8,school,Challoner Circuit
+200,"Parap Primary, Cooper Street, Parap, Darwin, City of Darwin, Northern Territory, 0820, Australia",-12.429666,130.8441976,5.26,7.24,school,Cooper Street
+201,"Sole Restaurant, Lee Point Road, Lee Point, City of Darwin, Northern Territory, 0811, Australia",-12.3409816,130.8931366,18.45,21.21,restaurant,Lee Point Road
+202,"Fannie Bay Super Pizza Italian Restaurant, Ross Smith Avenue, Fannie Bay, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4240555,130.8365323,5.75,8.39,restaurant,Ross Smith Avenue
+203,"Asian Gateway Restaurant, 58, Aralia Street, Nightcliff, Darwin, City of Darwin, Northern Territory, 0810, Australia",-12.3795265,130.8489492,11.83,15.5,restaurant,Aralia Street
+204,"Char Restaurant, Esplanade, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4649173,130.8400948,0.98,2.01,restaurant,Esplanade
+205,"Crab Claw Island Restaurant, Crab Claw Island Boat Ramp, Bynoe, Crab Claw Island, Northern Territory, Australia",-12.7060747,130.6223951,112.75,134.65,restaurant,Crab Claw Island Boat Ramp
+206,"Yogis Way, Coronation Drive, Stuart Park, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.445271,130.8425692,3.02,4.88,restaurant,Coronation Drive
+207,"Yots Greek Taverna, Marina Boulevard, Larrakeyah, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4509394,130.8223537,3.35,6.52,restaurant,Marina Boulevard
+208,"Il Lido, Anchorage Court, Darwin City, Darwin Waterfront Precinct Municipality, Northern Territory, 0801, Australia",-12.4687852,130.8471832,1.09,3.05,restaurant,Anchorage Court
+209,"Wharf Precinct Food Court, Stokes Hill Wharf, Darwin City, Darwin Waterfront Precinct Municipality, Northern Territory, 0801, Australia",-12.4707358,130.848332,1.82,5.24,restaurant,Stokes Hill Wharf
+210,"Hot Tamale, Anchorage Court, Darwin City, Darwin Waterfront Precinct Municipality, Northern Territory, 0801, Australia",-12.46862,130.8467776,1.04,2.93,restaurant,Anchorage Court
+211,"CHOW!, Kitchener Drive, Darwin City, Darwin Waterfront Precinct Municipality, Northern Territory, 0801, Australia",-12.4673061,130.8457022,1.0,2.48,restaurant,Kitchener Drive
+212,"Flavour E Azam, Smith Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4629791,130.8413479,0.85,1.89,restaurant,Smith Street
+213,"Howard Springs Tavern, Whitewood Road, Howard Springs, Litchfield Municipality, Northern Territory, 0839, Australia",-12.4967032,131.043459,29.42,31.45,restaurant,Whitewood Road
+214,"KFC Palmerston, Temple Terrace, Palmerston City, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4807328,130.9874155,22.45,21.9,restaurant,Temple Terrace
+215,"Nando's, Trower Road, Casuarina, Darwin, City of Darwin, Northern Territory, 0810, Australia",-12.3756524,130.8819609,13.46,15.82,restaurant,Trower Road
+216,"Casuarina Club, 247, Trower Road, Casuarina, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3726455,130.8828668,13.87,16.64,restaurant,Trower Road
+217,"Indian Curry Paradise, 56, Bradshaw Terrace, Casuarina, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3716305,130.8824083,14.02,17.13,restaurant,Bradshaw Terrace
+218,"Di Lusso, Lee Point Road, Lee Point, City of Darwin, Northern Territory, 0811, Australia",-12.3407987,130.8931697,18.44,21.17,restaurant,Lee Point Road
+219,"Medee Eatery, Hinkler Crescent, Fannie Bay, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4234262,130.8366545,5.82,8.64,restaurant,Hinkler Crescent
+220,"The Track, Dick Ward Drive, Bagot, Fannie Bay, Darwin, City of Darwin, Northern Territory, 0810, Australia",-12.423007,130.8434738,6.19,9.57,restaurant,Dick Ward Drive
+221,"Happy Garden, Vimy Lane, Parap, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4317256,130.8440271,4.48,6.54,restaurant,Vimy Lane
+222,"Oka, Vimy Lane, Parap, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4317597,130.8437052,4.63,6.9,restaurant,Vimy Lane
+223,"Pee Wee's at the Point, East Point Road, East Point, Darwin, City of Darwin, Northern Territory, 0820, Australia",-12.4125223,130.8235408,7.51,11.61,restaurant,East Point Road
+224,"Jilvie's Bistro, Kalymnos Drive, Karama, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4013842,130.9156072,14.55,16.73,restaurant,Kalymnos Drive
+225,"Yanyula Drive, Anula, Darwin, City of Darwin, Northern Territory, 0811, Australia",-12.3919899,130.8907792,13.13,15.76,restaurant,Yanyula Drive
+226,"Eat at Martin's, 6, Caryota Court, Coconut Grove, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3998953,130.8517538,9.29,12.25,restaurant,Caryota Court
+227,"Lucky Bat cafe and pizzeria, 8, Pavonia Place, Nightcliff, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.386966,130.8506046,10.9,13.35,restaurant,Pavonia Place
+228,"Spice Garden Eating House & Grill, Pavonia Place, Nightcliff, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3869292,130.8513276,10.82,13.16,restaurant,Pavonia Place
+229,"Canteen, Tilston Avenue, Driver, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4954257,130.9727635,23.09,22.78,restaurant,Tilston Avenue
+230,"Palmerston Tavern, Chung Wah Terrace, Palmerston City, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4807153,130.983729,22.48,21.71,restaurant,Chung Wah Terrace
+231,"Madame Za by Rydges Palmerston, Maluka Drive, Palmerston City, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.480953,130.9885588,22.62,22.23,restaurant,Maluka Drive
+232,"Primal Bar & Grill, 18, The Boulevard, Palmerston City, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4789554,130.9853843,22.13,21.31,restaurant,The Boulevard
+233,"Happy Garden, Yarrawonga Road, Yarrawonga, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4717978,130.9832325,21.44,21.02,restaurant,Yarrawonga Road
+234,"Nando's, Roystonea Road, Yarrawonga, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4716878,130.9826233,21.21,21.16,restaurant,Roystonea Road
+235,"Ducks Nuts Bar & Grill, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4610768,130.837834,1.25,2.52,restaurant,Mitchell Street
+236,"Mayberry, 3, Edmunds Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4618748,130.8412001,0.71,1.54,restaurant,Edmunds Street
+237,"City Pizza, Cavenagh Street, One Mile Dam, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4620547,130.8423947,0.52,1.17,restaurant,Cavenagh Street
+238,"PM Eat and Drink, 56 Smith Street, Knuckey Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4621143,130.8423333,0.53,1.19,restaurant,Knuckey Street
+239,"Little Miss Korea, Austin Lane, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4622633,130.8416285,0.64,1.43,restaurant,Austin Lane
+240,"Good Thanks, 33, Knuckey Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4622749,130.8422086,0.56,1.22,restaurant,Knuckey Street
+241,"Mellow Thai, 69, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4627718,130.8392303,1.01,2.08,restaurant,Mitchell Street
+242,"Go Sushi, 28, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4647618,130.8419141,0.71,1.79,restaurant,Mitchell Street
+243,"Outback Jacks, 28, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4646556,130.8418069,0.69,1.72,restaurant,Mitchell Street
+244,"Curry14, 27, Smith Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4643117,130.8425648,0.56,1.72,restaurant,Smith Street
+245,"Istanbul, 69, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.462982,130.8394516,0.98,2.01,restaurant,Mitchell Street
+246,"Alfonsino‘s, 69, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4630157,130.8392889,0.99,2.03,restaurant,Mitchell Street
+247,"Sapphire Bar and Grill Darwin CBD, 48-50, Smith Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4631496,130.8420973,0.63,1.34,restaurant,Smith Street
+248,"Mr Sushi, 48-50, Smith Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4629631,130.8422611,0.63,1.53,restaurant,Smith Street
+249,"Tim's Surf and Turf, Litchfield Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4623503,130.8441907,0.74,1.9,restaurant,Litchfield Street
+250,"Noodle House, 84, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4600612,130.8369453,1.4,2.65,restaurant,Mitchell Street
+251,"Nightcliff Primary School, Pandanus Street, Nightcliff, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3807665,130.8503049,11.31,14.96,school,Pandanus Street
+252,"Nightcliff Middle School, Aralia Street, Rapid Creek, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.377622,130.8530767,13.11,16.04,school,Aralia Street
+253,"Haileybury Rendall School, 6057, Berrimah Road, Berrimah, Darwin, City of Darwin, Northern Territory, 0828, Australia",-12.4440901,130.9222174,14.26,16.14,school,Berrimah Road
+254,"Larrakeyah Primary School, Larrakeyah PS Carpark, Larrakeyah, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4572771,130.829473,2.35,4.8,school,Larrakeyah PS Carpark
+255,"Murrupurtiyanuwu Catholic Primary School, Kerinauia Drive, Wurrumiyanga, Tiwi Islands Region, Northern Territory, Australia",-11.7567353,130.6392957,0.0,0.0,school,Kerinauia Drive
+256,"St Andrew's School, Leanyer Drive, Leanyer, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3735466,130.8994601,15.66,18.55,school,Leanyer Drive
+257,"Nakara Primary School, Kilfoyle Crescent, Nakara, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.370079,130.8778228,13.77,17.14,school,Kilfoyle Crescent
+258,"Henbury School, Henbury Avenue, Tiwi, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3673741,130.8840475,14.58,17.38,school,Henbury Avenue
+259,"Dripstone Middle School, Willeroo Street, Tiwi, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3658768,130.8831245,15.24,18.92,school,Willeroo Street
+260,"Milkwood Steiner School, 107, Boulter Road, Berrimah, Darwin, City of Darwin, Northern Territory, 0828, Australia",-12.4145278,130.9222983,15.17,17.22,school,Boulter Road
+261,"Malak Primary School, Pitman Court, Malak, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3919567,130.9027246,14.93,17.31,school,Pitman Court
+262,"Anula Primary School, Ford Street, Anula, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3913335,130.8934519,13.9,17.0,school,Ford Street
+263,"The Essington School, 22, Chapman Road, Rapid Creek, Darwin, City of Darwin, Northern Territory, 0810, Australia",-12.382596,130.8571738,10.84,13.81,school,Chapman Road
+264,"St Paul’s Catholic Primary School, Trower Road, Millner, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3870325,130.8580643,10.54,12.93,school,Trower Road
+265,"Jingili Primary School, Rindberg Street, Jingili, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3871158,130.8742359,12.85,15.53,school,Rindberg Street
+266,"Wulagi Primary School, Kingfisher Crescent, Wulagi, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3834654,130.8952214,14.36,17.36,school,Kingfisher Crescent
+267,"Moil Primary School, Moil Crescent, Moil, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3878617,130.880563,13.08,15.98,school,Moil Crescent
+268,"Sanderson Middle School, Lowrie Court, Malak, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3889241,130.8986416,14.65,17.34,school,Lowrie Court
+269,"Wagaman Primary School, Wagaman Terrace, Wagaman, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3802512,130.8843177,13.46,16.42,school,Wagaman Terrace
+270,"Nemarluk School, Stedcombe Street, Alawa, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3800288,130.8750822,12.53,14.83,school,Stedcombe Street
+271,"Alawa School Farm, Stedcombe Street, Alawa, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3793755,130.8765161,12.78,15.37,school,Stedcombe Street
+272,"Howard Spring Primary School, Whitewood Road, Howard Springs, Litchfield Municipality, Northern Territory, 0839, Australia",-12.4950556,131.0451684,29.77,32.48,school,Whitewood Road
+273,"Palmerston Christian School, Surcingle Drive, Marlow Lagoon, City of Palmerston, Northern Territory, 0830, Australia",-12.4907982,130.9645421,22.74,22.76,school,Surcingle Drive
+274,"Gray Primary School, Victoria Drive, Gray, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4896015,130.9803363,24.11,24.65,school,Victoria Drive
+275,"St Mary's Primary School, 3, Lindsey Street, One Mile Dam, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4594214,130.8389198,1.0,2.11,school,Lindsey Street
+276,"St Mary's Primary School, Lindsey Street, One Mile Dam, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4594802,130.8393497,1.01,2.09,school,Lindsey Street
+277,"Stuart Park Primary School, 8, Nudl Street, Stuart Park, Darwin, City of Darwin, Northern Territory, 0820, Australia",-12.4407323,130.8448625,3.87,7.41,school,Nudl Street
+278,"Darwin Middle School, Atkins Drive, The Gardens, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4381982,130.8354526,4.43,7.17,school,Atkins Drive
+279,"Middle Point School, Anzac Parade, Middle Point, Litchfield Municipality, Northern Territory, Australia",-12.5758742,131.3149856,67.0,62.35,school,Anzac Parade
+280,"St Francis Assisi School, Strangways Road, Humpty Doo, Litchfield Municipality, Northern Territory, 0836, Australia",-12.5815953,131.0991345,40.23,38.14,school,Strangways Road
+281,"Belyuen School, Cox Peninsula Road, Belyuen, Belyuen Shire, Northern Territory, Australia",-12.538992,130.7015389,108.93,86.76,school,Cox Peninsula Road
+282,"Forrest Parade School, 120, Flynn Circuit, Bellamack, Palmerston, City of Palmerston, Northern Territory, 0832, Australia",-12.5140096,130.9804233,25.99,25.38,school,Flynn Circuit
+283,"Rosebery Primary School, Roystonea Avenue, Rosebery, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.5112846,130.993882,26.75,26.25,school,Roystonea Avenue
+284,"Woodroffe Primary School, 55, Woodroffe Avenue, Woodroffe, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.5060488,130.9825878,25.25,26.13,school,Woodroffe Avenue
+285,"Moulden Park Primary School, Bonson Terrace, Moulden, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.5064204,130.9710702,24.04,23.34,school,Bonson Terrace
+286,"Zucculi Primary School, Cheesefruit Street, Zuccoli, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.5119502,131.0057773,28.38,27.76,school,Cheesefruit Street
+287,"Charles Darwin Uni, Technology Place, Brinkin, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3716195,130.8675993,13.84,18.52,school,Technology Place
+288,"Holy Spirit Catholic Primary, Angelo Street, Casuarina, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3726633,130.8848894,14.29,17.73,school,Angelo Street
+289,"Holy Family Catholic Primary, Calytrix Road, Karama, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3938049,130.9120928,15.9,18.2,school,Calytrix Road
+290,"Xavier Catholic College, Nguiu Street, Wurrumiyanga, Tiwi Islands Region, Northern Territory, Australia",-11.7575522,130.6379412,0.0,0.0,school,Nguiu Street
+291,"Taminmin College, Challoner Circuit, Humpty Doo, Litchfield Municipality, Northern Territory, 0836, Australia",-12.5808675,131.1018642,40.23,37.8,school,Challoner Circuit
+292,"Parap Primary, Cooper Street, Parap, Darwin, City of Darwin, Northern Territory, 0820, Australia",-12.429666,130.8441976,5.26,7.24,school,Cooper Street
+293,"Sole Restaurant, Lee Point Road, Lee Point, City of Darwin, Northern Territory, 0811, Australia",-12.3409816,130.8931366,18.45,21.21,restaurant,Lee Point Road
+294,"Fannie Bay Super Pizza Italian Restaurant, Ross Smith Avenue, Fannie Bay, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4240555,130.8365323,5.75,8.39,restaurant,Ross Smith Avenue
+295,"Asian Gateway Restaurant, 58, Aralia Street, Nightcliff, Darwin, City of Darwin, Northern Territory, 0810, Australia",-12.3795265,130.8489492,11.83,15.5,restaurant,Aralia Street
+296,"Char Restaurant, Esplanade, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4649173,130.8400948,0.98,2.01,restaurant,Esplanade
+297,"Crab Claw Island Restaurant, Crab Claw Island Boat Ramp, Bynoe, Crab Claw Island, Northern Territory, Australia",-12.7060747,130.6223951,112.75,134.65,restaurant,Crab Claw Island Boat Ramp
+298,"Yogis Way, Coronation Drive, Stuart Park, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.445271,130.8425692,3.02,4.88,restaurant,Coronation Drive
+299,"Yots Greek Taverna, Marina Boulevard, Larrakeyah, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4509394,130.8223537,3.35,6.52,restaurant,Marina Boulevard
+300,"Il Lido, Anchorage Court, Darwin City, Darwin Waterfront Precinct Municipality, Northern Territory, 0801, Australia",-12.4687852,130.8471832,1.09,3.05,restaurant,Anchorage Court
+301,"Wharf Precinct Food Court, Stokes Hill Wharf, Darwin City, Darwin Waterfront Precinct Municipality, Northern Territory, 0801, Australia",-12.4707358,130.848332,1.82,5.24,restaurant,Stokes Hill Wharf
+302,"Hot Tamale, Anchorage Court, Darwin City, Darwin Waterfront Precinct Municipality, Northern Territory, 0801, Australia",-12.46862,130.8467776,1.04,2.93,restaurant,Anchorage Court
+303,"CHOW!, Kitchener Drive, Darwin City, Darwin Waterfront Precinct Municipality, Northern Territory, 0801, Australia",-12.4673061,130.8457022,1.0,2.48,restaurant,Kitchener Drive
+304,"Flavour E Azam, Smith Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4629791,130.8413479,0.85,1.89,restaurant,Smith Street
+305,"Howard Springs Tavern, Whitewood Road, Howard Springs, Litchfield Municipality, Northern Territory, 0839, Australia",-12.4967032,131.043459,29.42,31.45,restaurant,Whitewood Road
+306,"Casuarina Club, 247, Trower Road, Casuarina, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3726455,130.8828668,13.87,16.64,restaurant,Trower Road
+307,"Indian Curry Paradise, 56, Bradshaw Terrace, Casuarina, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3716305,130.8824083,14.02,17.13,restaurant,Bradshaw Terrace
+308,"Di Lusso, Lee Point Road, Lee Point, City of Darwin, Northern Territory, 0811, Australia",-12.3407987,130.8931697,18.44,21.17,restaurant,Lee Point Road
+309,"Medee Eatery, Hinkler Crescent, Fannie Bay, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4234262,130.8366545,5.82,8.64,restaurant,Hinkler Crescent
+310,"The Track, Dick Ward Drive, Bagot, Fannie Bay, Darwin, City of Darwin, Northern Territory, 0810, Australia",-12.423007,130.8434738,6.19,9.57,restaurant,Dick Ward Drive
+311,"Happy Garden, Vimy Lane, Parap, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4317256,130.8440271,4.48,6.54,restaurant,Vimy Lane
+312,"Oka, Vimy Lane, Parap, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4317597,130.8437052,4.63,6.9,restaurant,Vimy Lane
+313,"Pee Wee's at the Point, East Point Road, East Point, Darwin, City of Darwin, Northern Territory, 0820, Australia",-12.4125223,130.8235408,7.51,11.61,restaurant,East Point Road
+314,"Jilvie's Bistro, Kalymnos Drive, Karama, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4013842,130.9156072,14.55,16.73,restaurant,Kalymnos Drive
+315,"Yanyula Drive, Anula, Darwin, City of Darwin, Northern Territory, 0811, Australia",-12.3919899,130.8907792,13.13,15.76,restaurant,Yanyula Drive
+316,"Eat at Martin's, 6, Caryota Court, Coconut Grove, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3998953,130.8517538,9.29,12.25,restaurant,Caryota Court
+317,"Lucky Bat cafe and pizzeria, 8, Pavonia Place, Nightcliff, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.386966,130.8506046,10.9,13.35,restaurant,Pavonia Place
+318,"Spice Garden Eating House & Grill, Pavonia Place, Nightcliff, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3869292,130.8513276,10.82,13.16,restaurant,Pavonia Place
+319,"Canteen, Tilston Avenue, Driver, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4954257,130.9727635,23.09,22.78,restaurant,Tilston Avenue
+320,"Palmerston Tavern, Chung Wah Terrace, Palmerston City, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4807153,130.983729,22.48,21.71,restaurant,Chung Wah Terrace
+321,"Madame Za by Rydges Palmerston, Maluka Drive, Palmerston City, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.480953,130.9885588,22.62,22.23,restaurant,Maluka Drive
+322,"Primal Bar & Grill, 18, The Boulevard, Palmerston City, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4789554,130.9853843,22.13,21.31,restaurant,The Boulevard
+323,"Happy Garden, Yarrawonga Road, Yarrawonga, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4717978,130.9832325,21.44,21.02,restaurant,Yarrawonga Road
+324,"Nando's, Roystonea Road, Yarrawonga, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4716878,130.9826233,21.21,21.16,restaurant,Roystonea Road
+325,"Ducks Nuts Bar & Grill, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4610768,130.837834,1.25,2.52,restaurant,Mitchell Street
+326,"Mayberry, 3, Edmunds Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4618748,130.8412001,0.71,1.54,restaurant,Edmunds Street
+327,"City Pizza, Cavenagh Street, One Mile Dam, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4620547,130.8423947,0.52,1.17,restaurant,Cavenagh Street
+328,"PM Eat and Drink, 56 Smith Street, Knuckey Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4621143,130.8423333,0.53,1.19,restaurant,Knuckey Street
+329,"Little Miss Korea, Austin Lane, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4622633,130.8416285,0.64,1.43,restaurant,Austin Lane
+330,"Good Thanks, 33, Knuckey Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4622749,130.8422086,0.56,1.22,restaurant,Knuckey Street
+331,"Mellow Thai, 69, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4627718,130.8392303,1.01,2.08,restaurant,Mitchell Street
+332,"Go Sushi, 28, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4647618,130.8419141,0.71,1.79,restaurant,Mitchell Street
+333,"Outback Jacks, 28, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4646556,130.8418069,0.69,1.72,restaurant,Mitchell Street
+334,"Curry14, 27, Smith Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4643117,130.8425648,0.56,1.72,restaurant,Smith Street
+335,"Istanbul, 69, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.462982,130.8394516,0.98,2.01,restaurant,Mitchell Street
+336,"Alfonsino‘s, 69, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4630157,130.8392889,0.99,2.03,restaurant,Mitchell Street
+337,"Sapphire Bar and Grill Darwin CBD, 48-50, Smith Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4631496,130.8420973,0.63,1.34,restaurant,Smith Street
+338,"Mr Sushi, 48-50, Smith Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4629631,130.8422611,0.63,1.53,restaurant,Smith Street
+339,"Tim's Surf and Turf, Litchfield Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4623503,130.8441907,0.74,1.9,restaurant,Litchfield Street
+340,"Noodle House, 84, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4600612,130.8369453,1.4,2.65,restaurant,Mitchell Street
+341,"noodle house, 84, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4601166,130.836944,1.39,2.64,restaurant,Mitchell Street
+342,"Hanuman Darwin, 93, Mitchell Street, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4607211,130.8368081,1.45,2.92,restaurant,Mitchell Street
+343,"Nightcliff Primary School, Hibiscus Street, Nightcliff, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3807665,130.8503049,11.31,14.96,school,Hibiscus Street
+344,"Nightcliff Middle School, Nightcliff Road, Rapid Creek, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.377622,130.8530767,13.11,16.04,school,Nightcliff Road
+345,"Haileybury Rendall School, 6057, Berrimah Road, Berrimah, Darwin, City of Darwin, Northern Territory, 0828, Australia",-12.4440901,130.9222174,14.26,16.14,school,Berrimah Road
+346,"Larrakeyah Primary School, Larrakeyah PS Carpark, Larrakeyah, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4572771,130.829473,2.35,4.8,school,Larrakeyah PS Carpark
+347,"Murrupurtiyanuwu Catholic Primary School, Kerinauia Drive, Wurrumiyanga, Tiwi Islands Region, Northern Territory, Australia",-11.7567353,130.6392957,0.0,0.0,school,Kerinauia Drive
+348,"St Andrew's School, Leanyer Drive, Leanyer, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3735466,130.8994601,15.66,18.55,school,Leanyer Drive
+349,"Nakara Primary School, Kilfoyle Crescent, Nakara, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.370079,130.8778228,13.77,17.14,school,Kilfoyle Crescent
+350,"Henbury School, Gsell Street, Tiwi, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3673741,130.8840475,14.58,17.38,school,Gsell Street
+351,"Dripstone Middle School, Willeroo Street, Tiwi, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3658768,130.8831245,15.24,18.92,school,Willeroo Street
+352,"Milkwood Steiner School, 107, Boulter Road, Berrimah, Darwin, City of Darwin, Northern Territory, 0828, Australia",-12.4145278,130.9222983,15.17,17.22,school,Boulter Road
+353,"Malak Primary School, Hands Court, Malak, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3919567,130.9027246,14.93,17.31,school,Hands Court
+354,"Anula Primary School, Ford Street, Anula, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3913335,130.8934519,13.9,17.0,school,Ford Street
+355,"The Essington School, 22, Chapman Road, Rapid Creek, Darwin, City of Darwin, Northern Territory, 0810, Australia",-12.382596,130.8571738,10.84,13.81,school,Chapman Road
+356,"St Paul’s Catholic Primary School, Trower Road, Millner, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3870325,130.8580643,10.54,12.93,school,Trower Road
+357,"Jingili Primary School, Jingili Terrace, Jingili, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3871158,130.8742359,12.85,15.53,school,Jingili Terrace
+358,"Wulagi Primary School, Wulagi Crescent, Wulagi, Darwin, City of Darwin, Northern Territory, 0811, Australia",-12.3834654,130.8952214,14.36,17.36,school,Wulagi Crescent
+359,"Moil Primary School, Budgen Street, Moil, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3878617,130.880563,13.08,15.98,school,Budgen Street
+360,"Sanderson Middle School, Union Terrace, Anula, Darwin, City of Darwin, Northern Territory, 0811, Australia",-12.3889241,130.8986416,14.65,17.34,school,Union Terrace
+361,"Wagaman Primary School, Klein Street, Wagaman, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3802512,130.8843177,13.46,16.42,school,Klein Street
+362,"Nemarluk School, Styles Street, Alawa, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3800288,130.8750822,12.53,14.83,school,Styles Street
+363,"Alawa School Farm, Forbes Street, Alawa, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3793755,130.8765161,12.78,15.37,school,Forbes Street
+364,"Howard Spring Primary School, Whitewood Road, Howard Springs, Litchfield Municipality, Northern Territory, 0839, Australia",-12.4950556,131.0451684,29.77,32.48,school,Whitewood Road
+365,"Palmerston Christian School, Surcingle Drive, Marlow Lagoon, City of Palmerston, Northern Territory, 0830, Australia",-12.4907982,130.9645421,22.74,22.76,school,Surcingle Drive
+366,"Gray Primary School, Victoria Drive, Gray, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.4896015,130.9803363,24.11,24.65,school,Victoria Drive
+367,"St Mary's Primary School, 3, Lindsey Street, One Mile Dam, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4594214,130.8389198,1.0,2.11,school,Lindsey Street
+368,"St Mary's Primary School, Lindsey Street, One Mile Dam, Darwin City, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4594802,130.8393497,1.01,2.09,school,Lindsey Street
+369,"Stuart Park Primary School, 8, Nudl Street, Stuart Park, Darwin, City of Darwin, Northern Territory, 0820, Australia",-12.4407323,130.8448625,3.87,7.41,school,Nudl Street
+370,"Darwin Middle School, Atkins Drive, The Gardens, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4381982,130.8354526,4.43,7.17,school,Atkins Drive
+371,"Middle Point School, Anzac Parade, Middle Point, Litchfield Municipality, Northern Territory, Australia",-12.5758742,131.3149856,67.0,62.35,school,Anzac Parade
+372,"St Francis Assisi School, Strangways Road, Humpty Doo, Litchfield Municipality, Northern Territory, 0836, Australia",-12.5815953,131.0991345,40.23,38.14,school,Strangways Road
+373,"Belyuen School, Cox Peninsula Road, Belyuen, Belyuen Shire, Northern Territory, Australia",-12.538992,130.7015389,108.93,86.76,school,Cox Peninsula Road
+374,"Forrest Parade School, 120, Flynn Circuit, Bellamack, Palmerston, City of Palmerston, Northern Territory, 0832, Australia",-12.5140096,130.9804233,25.99,25.38,school,Flynn Circuit
+375,"Rosebery Primary School, Roystonea Avenue, Rosebery, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.5112846,130.993882,26.75,26.25,school,Roystonea Avenue
+376,"Woodroffe Primary School, 55, Woodroffe Avenue, Woodroffe, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.5060488,130.9825878,25.25,26.13,school,Woodroffe Avenue
+377,"Moulden Park Primary School, Bonson Terrace, Moulden, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.5064204,130.9710702,24.04,23.34,school,Bonson Terrace
+378,"Zucculi Primary School, Cheesefruit Street, Zuccoli, Palmerston, City of Palmerston, Northern Territory, 0830, Australia",-12.5119502,131.0057773,28.38,27.76,school,Cheesefruit Street
+379,"Charles Darwin Uni, Technology Place, Brinkin, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3716195,130.8675993,13.84,18.52,school,Technology Place
+380,"Holy Spirit Catholic Primary, Perez Street, Casuarina, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3726633,130.8848894,14.29,17.73,school,Perez Street
+381,"Holy Family Catholic Primary, Calytrix Road, Karama, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.3938049,130.9120928,15.9,18.2,school,Calytrix Road
+382,"Xavier Catholic College, Kerinauia Drive, Wurrumiyanga, Tiwi Islands Region, Northern Territory, Australia",-11.7575522,130.6379412,0.0,0.0,school,Kerinauia Drive
+383,"Darwin Languages Centre, Mosec Street, Bagot, Ludmilla, Darwin, City of Darwin, Northern Territory, 0800, Australia",-12.4227872,130.8556231,6.27,8.16,school,Mosec Street
+384,"Taminmin College, Challoner Circuit, Humpty Doo, Litchfield Municipality, Northern Territory, 0836, Australia",-12.5808675,131.1018642,40.23,37.8,school,Challoner Circuit
