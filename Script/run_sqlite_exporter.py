@@ -41,8 +41,8 @@ def export_database_data(config):
     table = 'route_info'
     exporter = SQLiteExporter(db_path)
     query = f'SELECT * FROM {table}'
-    csv_filename = f'{table}_output.csv'
-    json_filename = f'{table}_output.json'
+    csv_filename = f'../output/{table}_output.csv'
+    json_filename = f'../output/{table}_output.json'
 
     try:
         exporter.query_to_csv(query, csv_filename)

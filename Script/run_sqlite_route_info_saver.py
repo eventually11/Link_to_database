@@ -8,6 +8,7 @@ Created on Mon Aug 19 07:50:50 2024
 import os
 import sys
 import pandas as pd
+import yaml
 import sqlite3
 from MockOrderDataImporter.sqlite_route_info_saver import RouteInfoToSQLite
 
@@ -31,7 +32,7 @@ def load_config(config_file):
 
 def main():
     # Database configuration
-    db_path = "route_info.db"
+    db_path = load_config('../config/config.yaml')['sqlite_db_path']
     table_name = "route_info"
 
     # Parameters for the search
