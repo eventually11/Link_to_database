@@ -3,6 +3,7 @@
 Created on Mon Aug 19 07:50:50 2024
 
 @author: Administrator
+The project focuses on the collection and storage of route information. It involves calling APIs to gather route data for specified locations and storing this data in an SQLite database. The project is divided into three modules: data collection, data transformation, and data storage.
 """
 
 import os
