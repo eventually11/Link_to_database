@@ -54,7 +54,7 @@ class DataToSQLite:
 
 if __name__ == "__main__":
     # Configure SQLite database path and table name
-    db_path = '../output/sm.db'
+    db_path = '../../output/sm.db'
     table_name = 'ods_saas_partner_order'
 
     # Create and run the DataToSQLite class instance
